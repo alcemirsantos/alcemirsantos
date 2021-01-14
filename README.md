@@ -1,7 +1,10 @@
 
 # Alcemir Rodrigues Santos, Dr. 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-644a35192/)](https://www.linkedin.com/in/alcemirsantos/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+![Java Badge](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+
 
 ### Hi there 👋 
 I am currently a CS assistant professor at UESPI Piripiri. I'am also a software development, financial market and enterpreneurship enthusiast.
