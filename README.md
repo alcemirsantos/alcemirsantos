@@ -16,3 +16,6 @@ I am currently a CS assistant professor at UESPI Piripiri. I'am also a software 
 - 📫  Checkout my personal website: https://www.alcemirsantos.com.br
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alcemirsantos&layout=compact&count_private=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api?username=alcemirsantos&show_icons=true&count_private=true&theme=dracula)
